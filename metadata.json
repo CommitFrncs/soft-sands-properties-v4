@@ -1,0 +1,6 @@
+{
+  "name": "Soft Sands Properties",
+  "description": "Minimalist, verified residential real estate platform for gated estates in Ibadan, Nigeria.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
